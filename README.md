@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome
+
+I am Oscar, a university Computer Science student. 
+
+I love web development with React, ExpressJS.
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OscarMui&layout=compact&hide_border=true&langs_count=5&hide=html,css,Procfile,Less&size_weight=0.5&count_weight=0.5)
 
 <!--
 **OscarMui/OscarMui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
